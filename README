@@ -1,2 +1,5 @@
 These are my assorted scripts that I run on a semi-regular basis.
 
+
+gen_cert.sh :
+	Shell script to deal with certs generates a .key .pem .crt 
